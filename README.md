@@ -73,3 +73,41 @@
 - Computer Networks
 - Software Engineering
 - System Design Fundamentals
+
+- ---
+
+## 🚀 Featured Projects
+
+### 01. RouteWeave
+**Travel Planning Application**
+
+A web application focused on travel planning and route exploration, designed to provide users with a convenient travel-planning experience.
+
+- 🌐 Live Demo: [RouteWeave](YOUR_VERIFIED_LIVE_URL)
+- 💻 Source Code: [GitHub Repository](https://github.com/sarathynsarathy-oss/RouteWeave)
+
+**Technologies:** Add the actual technologies used in this project.
+
+---
+
+### 02. Chronos Chatbot
+**AI-Powered Conversational Application**
+
+An experimental conversational application exploring AI-powered interactions and intelligent software development.
+
+- 💻 Source Code: [GitHub Repository](https://github.com/sarathynsarathy-oss/chronos-chatbot)
+
+**Technologies:** Add the actual technologies used in this project.
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Python programming
+- Backend engineering and API development
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI agents and workflow orchestration
+- System design and software architecture
+
+---
