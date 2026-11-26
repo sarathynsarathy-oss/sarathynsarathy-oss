@@ -101,6 +101,24 @@ An experimental conversational application exploring AI-powered interactions and
 
 ---
 
+---
+
+## 📊 GitHub Statistics
+
+### GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarathynsarathy-oss&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarathynsarathy-oss&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+### Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sarathynsarathy-oss&theme=github-dark-blue&hide_border=true)
+
+---
+
 ## 📚 Currently Exploring
 
 - Advanced Python programming
