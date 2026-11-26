@@ -129,3 +129,7 @@ An experimental conversational application exploring AI-powered interactions and
 - System design and software architecture
 
 ---
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sarathynsarathy-oss&theme=github-dark-blue&hide_border=true&border_radius=10)
