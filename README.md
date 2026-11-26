@@ -133,3 +133,11 @@ An experimental conversational application exploring AI-powered interactions and
 ### 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sarathynsarathy-oss&theme=github-dark-blue&hide_border=true&border_radius=10)
+
+---
+
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarathynsarathy-oss&theme=github-compact&hide_border=true&area=true)
+
+---
